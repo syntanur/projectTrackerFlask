@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "jebbs.plantuml",
-        "mebrahtom.plantumlpreviewer"
+        "mebrahtom.plantumlpreviewer",
+        "ms-python.python"
     ]
 }
