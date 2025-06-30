@@ -2,6 +2,7 @@ F. Etika & Lisensi
 
 Proyek ini merupakan hasil pengembangan dari proyek open source yang menggunakan lisensi MIT License (Hak Cipta © 2023 Akash Nath). MIT License adalah salah satu lisensi sumber terbuka yang bersifat permisif. Artinya, lisensi ini memberikan kebebasan bagi siapa pun untuk menggunakan, menyalin, memodifikasi, menggabungkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan perangkat lunak, selama tetap mencantumkan pemberitahuan hak cipta dan izin lisensi dalam semua salinannya.
 
+Referensi proyek asli: https://github.com/Akash-nath29/projectTrackerFlask?tab=MIT-1-ov-file 
 Kompatibilitas Pengubahan
 
 Pengubahan dan pengembangan yang kami lakukan meliputi:
