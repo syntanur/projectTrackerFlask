@@ -24,3 +24,19 @@ Secara keseluruhan, aplikasi ini berada pada tingkat **Marginal - Acceptable** d
 ## Grafik SUS Score
 
 ![SUS Score Chart](sus_chart.png)
+
+## Analisis Ringkas
+
+Berdasarkan hasil survei dari 4 responden, didapatkan rata-rata skor SUS sebesar 60.63, yang termasuk dalam kategori Marginal – Acceptable. Artinya:
+
+- Sistem dapat digunakan, namun masih memiliki sejumlah kendala usability yang dirasakan pengguna.
+- Beberapa responden memberikan skor tinggi (seperti 90), namun ada juga yang memberikan skor lebih rendah di kisaran 47–52.5. Ini menunjukkan adanya persepsi berbeda terhadap kemudahan dan kenyamanan penggunaan sistem.
+- Komentar atau jawaban responden pada item negatif (misalnya, "sistem terasa kompleks" atau "memerlukan bantuan teknis") menunjukkan adanya area yang bisa ditingkatkan, seperti:
+  - Konsistensi antarmuka
+  - Integrasi fungsi
+  - Kemudahan bagi pengguna baru
+
+### Kesimpulan
+
+Aplikasi komunitas belajar kelompok peminatan prodi menunjukkan potensi yang baik, namun memerlukan perbaikan antarmuka dan alur penggunaan untuk memastikan semua pengguna dapat menggunakan sistem dengan mudah tanpa bantuan tambahan.
+
